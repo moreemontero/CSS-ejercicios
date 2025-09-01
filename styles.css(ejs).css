@@ -1,0 +1,61 @@
+/* Ejercicio 1 */
+p, h6 {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: rgb(117, 0, 111);
+}
+
+/*Ejercicio 2 */
+body {
+  color: rgb(78, 1, 1);
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-family: "Times New Roman", serif;
+}
+
+h2 {
+  font-family: Courier, monospace;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+}
+
+/*Ejercicio 3 */
+h1 em { color: #dddddd; }
+h2 em { color: #cccccc; }
+h3 em { color: #bbbbbb; }
+h4 em { color: #aaaaaa; }
+h5 em { color: #999999; }
+h6 em { color: #888888; }
+
+/* Ejercicio 4 */
+.subrayado {
+  color: #00aa00;
+  text-decoration: underline;
+}
+
+.tachado {
+  color: #00aa00;
+  text-decoration: line-through;
+}
+
+/* Ejercicio 5 */
+#cabecera {
+  background-color: rgb(212, 176, 253);
+  text-align: center;
+  padding: 15px;
+}
+
+#cuerpo {
+  background-color: rgb(252, 160, 195);
+  padding: 20px;
+}
+
+#pie {
+  background-color: rgb(167, 252, 212);
+  text-align: center;
+  padding: 10px;
+}

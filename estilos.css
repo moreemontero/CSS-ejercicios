@@ -1,0 +1,14 @@
+#cabecera {
+  background-color: rgb(212, 176, 253);
+  text-align: center;
+  padding: 15px;
+}
+#cuerpo {
+  background-color: rgb(252, 160, 195);
+  padding: 20px;
+}
+#pie {
+  background-color: rgb(167, 252, 212);
+  text-align: center;
+  padding: 10px;
+}
